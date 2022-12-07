@@ -1,0 +1,121 @@
+2022.11.27 23:49:48 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/.metals/lsp.trace.json or /Users/kathanbhavsar/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.11.27 23:49:48 INFO  logging to file /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/.metals/metals.log
+2022.11.27 23:49:48 INFO  Started: Metals version 0.11.9 in workspace '/Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala' for client Visual Studio Code 1.73.1.
+2022.11.27 23:49:49 INFO  time: initialize in 0.57s
+2022.11.27 23:49:49 WARN  Build server is not auto-connectable.
+2022.11.27 23:49:51 WARN  no build target for: /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/src/main/scala/kathan/spark/DegreesOfSeparationDataset.scala
+2022.11.27 23:49:52 INFO  no build target found for /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/src/main/scala/kathan/spark/DegreesOfSeparationDataset.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.11.27 23:49:53 INFO  time: code lens generation in 1.15s
+2022.11.27 23:53:11 INFO  shutting down Metals
+2022.11.28 00:18:44 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/.metals/lsp.trace.json or /Users/kathanbhavsar/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.11.28 00:18:45 INFO  logging to file /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/.metals/metals.log
+2022.11.28 00:18:45 INFO  Started: Metals version 0.11.9 in workspace '/Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala' for client Visual Studio Code 1.73.1.
+2022.11.28 00:18:45 INFO  time: initialize in 0.62s
+2022.11.28 00:18:46 WARN  Build server is not auto-connectable.
+2022.11.28 00:18:46 WARN  no build target for: /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/src/main/scala/kathan/spark/DegreesOfSeparationDataset.scala
+Nov 28, 2022 12:18:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.11.28 00:18:47 INFO  no build target found for /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/src/main/scala/kathan/spark/DegreesOfSeparationDataset.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.11.28 00:18:48 INFO  time: code lens generation in 1.79s
+2022.11.28 00:19:03 WARN  no build target for: /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/src/main/scala/kathan/spark/friendsDatasets.scala
+2022.11.28 00:19:08 WARN  no build target for: /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/src/main/scala/kathan/spark/tempSQL.scala
+2022.11.28 00:40:53 INFO  shutting down Metals
+2022.11.28 04:38:45 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/.metals/lsp.trace.json or /Users/kathanbhavsar/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.11.28 04:38:46 INFO  logging to file /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/.metals/metals.log
+2022.11.28 04:38:46 INFO  Started: Metals version 0.11.9 in workspace '/Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala' for client Visual Studio Code 1.73.1.
+2022.11.28 04:38:47 INFO  time: initialize in 1.46s
+2022.11.28 04:38:48 WARN  Build server is not auto-connectable.
+2022.11.28 04:38:48 WARN  no build target for: /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/src/main/scala/kathan/spark/tempSQL.scala
+Nov 28, 2022 4:38:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.11.28 04:38:51 INFO  no build target found for /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/src/main/scala/kathan/spark/tempSQL.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.11.28 04:38:54 INFO  time: code lens generation in 4.51s
+2022.11.28 04:51:51 INFO  shutting down Metals
+2022.11.28 04:51:51 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2022.11.29 07:38:44 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/.metals/lsp.trace.json or /Users/kathanbhavsar/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.11.29 07:48:01 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/.metals/lsp.trace.json or /Users/kathanbhavsar/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.11.29 07:48:01 INFO  logging to file /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/.metals/metals.log
+2022.11.29 07:48:01 INFO  Started: Metals version 0.11.9 in workspace '/Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala' for client Visual Studio Code 1.73.1.
+2022.11.29 07:48:01 INFO  time: initialize in 0.62s
+2022.11.29 07:48:02 WARN  Build server is not auto-connectable.
+2022.11.29 07:48:02 WARN  no build target for: /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/src/main/scala/kathan/spark/tempSQL.scala
+2022.11.29 07:48:05 INFO  no build target found for /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/src/main/scala/kathan/spark/tempSQL.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.11.29 07:48:06 INFO  time: code lens generation in 2.93s
+2022.11.29 07:48:09 INFO  running '/opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/nq/3__f3f315gx2l7j9x0zyk6th0000gn/T/metals16128726523692650268/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.11.29 07:48:09 WARN  no build target for: /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/project/metals.sbt
+2022.11.29 07:48:09 WARN  no build target for: /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/project/project/metals.sbt
+2022.11.29 07:48:09 INFO  skipping build import with status 'Started'
+2022.11.29 07:48:10 INFO  [info] welcome to sbt 1.3.13 (Homebrew Java 11.0.16.1)
+2022.11.29 07:48:10 INFO  [info] loading global plugins from /Users/kathanbhavsar/.sbt/1.0/plugins
+2022.11.29 07:48:12 INFO  [info] loading settings for project spark-scala-build-build from metals.sbt ...
+2022.11.29 07:48:12 INFO  [info] loading project definition from /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/project/project
+2022.11.29 07:48:15 INFO  [info] loading settings for project spark-scala-build from metals.sbt ...
+2022.11.29 07:48:15 INFO  [info] loading project definition from /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/project
+2022.11.29 07:48:20 INFO  [success] Generated .bloop/spark-scala-build.json
+2022.11.29 07:48:20 INFO  [success] Total time: 5 s, completed 29-Nov-2022, 7:48:20 AM
+2022.11.29 07:48:20 INFO  [info] loading settings for project spark-scala from build.sbt ...
+2022.11.29 07:48:20 INFO  [info] set current project to SparkScalaCourse (in build file:/Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/)
+2022.11.29 07:48:22 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+2022.11.29 07:48:22 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+2022.11.29 07:48:22 INFO  [success] Generated .bloop/spark-scala-test.json
+2022.11.29 07:48:22 INFO  [success] Generated .bloop/spark-scala.json
+2022.11.29 07:48:23 INFO  [success] Total time: 2 s, completed 29-Nov-2022, 7:48:23 AM
+2022.11.29 07:48:23 INFO  time: ran 'sbt bloopInstall' in 14s
+2022.11.29 07:48:23 INFO  Attempting to connect to the build server...
+2022.11.29 07:48:23 INFO  Setting up current java home /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home in /Users/kathanbhavsar/.bloop/bloop.json
+2022.11.29 07:48:36 INFO  shutting down Metals
+2022.11.30 20:23:33 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/.metals/lsp.trace.json or /Users/kathanbhavsar/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.11.30 20:23:33 INFO  logging to file /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/.metals/metals.log
+2022.11.30 20:23:33 INFO  Started: Metals version 0.11.9 in workspace '/Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala' for client Visual Studio Code 1.73.1.
+2022.11.30 20:23:34 INFO  time: initialize in 0.64s
+2022.11.30 20:23:35 INFO  Attempting to connect to the build server...
+2022.11.30 20:23:35 INFO  Bloop uses /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home defined at /Users/kathanbhavsar/.bloop/bloop.json
+2022.11.30 20:23:34 INFO  skipping build import with status 'Installed'
+Nov 30, 2022 8:23:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.11.30 20:23:38 INFO  no build target found for /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/src/main/scala/kathan/spark/tempSQL.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.11.30 20:23:39 INFO  time: code lens generation in 3.18s
+2022.11.30 20:23:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/.metals/bsp.trace.json or /Users/kathanbhavsar/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.11.30 20:23:58 INFO  Attempting to connect to the build server...
+2022.11.30 20:23:58 INFO  Bloop uses /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home defined at /Users/kathanbhavsar/.bloop/bloop.json
+2022.11.30 20:23:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/project/.metals/bsp.trace.json or /Users/kathanbhavsar/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.11.30 20:24:00 INFO  time: Connected to build server in 25s
+2022.11.30 20:24:00 INFO  Connected to Build server: Bloop v1.5.4
+2022.11.30 20:24:00 INFO  time: Imported build in 0.12s
+2022.11.30 20:24:13 INFO  time: indexed workspace in 12s
+2022.11.30 20:24:13 INFO  compiling spark-scala (56 scala sources)
+2022.11.30 20:24:23 INFO  time: compiled spark-scala in 9.98s
+2022.12.01 09:39:02 INFO  shutting down Metals
+2022.12.01 09:39:02 INFO  Shut down connection with build server.
+2022.12.01 09:39:02 INFO  Shut down connection with build server.
+2022.12.01 15:20:20 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/.metals/lsp.trace.json or /Users/kathanbhavsar/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.12.01 15:20:20 INFO  logging to file /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/.metals/metals.log
+2022.12.01 15:20:20 INFO  Started: Metals version 0.11.9 in workspace '/Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala' for client Visual Studio Code 1.73.1.
+2022.12.01 15:20:21 INFO  time: initialize in 0.63s
+2022.12.01 15:20:22 INFO  Attempting to connect to the build server...
+2022.12.01 15:20:22 INFO  Bloop uses /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home defined at /Users/kathanbhavsar/.bloop/bloop.json
+2022.12.01 15:20:21 INFO  skipping build import with status 'Installed'
+2022.12.01 15:20:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/.metals/bsp.trace.json or /Users/kathanbhavsar/Library/Caches/org.scalameta.metals/bsp.trace.json
+Dec 01, 2022 3:20:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.12.01 15:20:22 INFO  Attempting to connect to the build server...
+2022.12.01 15:20:22 INFO  Bloop uses /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home defined at /Users/kathanbhavsar/.bloop/bloop.json
+2022.12.01 15:20:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kathanbhavsar/Desktop/Hardware_management/Spark-scala/project/.metals/bsp.trace.json or /Users/kathanbhavsar/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.12.01 15:20:22 INFO  time: Connected to build server in 0.34s
+2022.12.01 15:20:22 INFO  Connected to Build server: Bloop v1.5.4
+2022.12.01 15:20:22 INFO  time: Imported build in 0.1s
+2022.12.01 15:20:25 INFO  time: indexed workspace in 2.68s
+2022.12.01 15:20:37 INFO  shutting down Metals
+2022.12.01 15:20:37 INFO  Shut down connection with build server.
+2022.12.01 15:20:37 INFO  Shut down connection with build server.
